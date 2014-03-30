@@ -1,6 +1,8 @@
 Asteroids
 =========
 
+* Shoot asteroids from your spaceship!
+
 ## Key concepts in this project:
 
 * Prototypal inheritance
