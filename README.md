@@ -14,5 +14,7 @@ Asteroids
 ## Key concepts in this project:
 
 * Prototypal inheritance
+  * Ship, Bullet, and Asteroid all inherit from MovingObject
 * Canvas
 * Keybinding with `keymaster`
+
