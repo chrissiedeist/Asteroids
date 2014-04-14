@@ -1,7 +1,7 @@
 Asteroids
 =========
 
-* Shoot asteroids from your spaceship before they hit you!
+* An asyncronous browser game. Shoot asteroids from your spaceship before they hit you!
 
 ## How to play
 
